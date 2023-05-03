@@ -1,6 +1,6 @@
 # Minha API
 
-Este pequeno projeto 'e uma api que faz cadastro de monitores incluindo email do monitor, habilidade e disponibilidade.
+Este pequeno projeto 'e uma api que faz cadastro de monitores incluindo nome, email, habilidade e disponibilidade.
 
 O objetivo aqui é colocar em pratica o conteúdo apresentado ao longo das três aulas da disciplina.
 
